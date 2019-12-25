@@ -1,2 +1,2 @@
 # R-DEA-microarray
-Differential expresssion analysis using microarray technology
+Differential expresssion analysis with microarray technology
